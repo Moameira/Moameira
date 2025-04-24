@@ -1,11 +1,11 @@
 ## Hi, i am Mohamed 
 
-🎛️ Informatiker Student at the Fachhochschule Münster<br/>
+🎛️ Informatiker Student an der Fachhochschule Münster<br/>
 
 🔭 I'm currently working on my own Rubik's Cube Solving App<br/>
 🌱 I'm currently learning Spanish and JavaScript because everyone love to learn them but no one does<br/>
-🤔 I'm looking for help with Debugging 😭<br/>
-📫 HHow to reach me :<br/> 
+🤔 I'm looking for help understanding Dijkstra's Algorithm 😭<br/>
+📫 How to reach me :<br/> 
 email: imameira999@gmail.com<br/>
 instagram: https://www.instagram.com/iosmed049?igsh=OXNra3Y0cTB1b2Qy&utm_source=qr<br/>
 
